@@ -1,5 +1,4 @@
-# DCGAN 
-# This is a version from Francois Chollet's Deep Learning with Python, but changed to run on dog images instead of frogs, and implemented code to store images in a subdirectory.
+# DCGAN (a tweaked verion from Francois Chollet's original to save dog's images)
 
 import keras
 from keras import layers
